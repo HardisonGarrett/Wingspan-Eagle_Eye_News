@@ -1,0 +1,106 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(23, 23, 161);
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+  padding: 26px 28px;
+  text-decoration: none;
+  
+}
+
+nav li a:hover {
+    background-color: #111;
+  }
+
+  nav li  {
+    display: block;
+    color: white;
+    text-align: center;
+  padding: 30px 32px;
+  text-decoration: none;
+  
+  margin: 8px 22px 8px 22px;
+  
+}
+
+nav li :hover {
+    background-color: #111;
+  }
+
+ body {
+  margin: 0px;
+ }
+
+/* Creates black background */ 
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(14, 10, 121);
+}
+
+/* lines the list elements up horizontally*/
+nav li {
+  float: left;
+}
+
+/*Creates padding around link*/
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+  background-color: rgb(7, 4, 192);
+}
+
+h1 {
+  color: white;
+ text-align: center;
+ background-color: rgb(14, 10, 121);
+ margin: 0px;
+}
+
+h6{
+  background-color: rgb(56, 54, 54);
+  margin:0px
+}
+#Recent-1{
+  float: center;
+  
+}
+#Recent{
+  float: center;
+  
+}
+#Recent-2{
+  float: center;
+  
+}
+#Image{
+  padding-left: 20%;
+}
+#Image-1{
+  padding-left: 6%;
+}
+ 
+.homeimages{
+  max-width: 100%;
+  
+  position:inherit;
+  float: center;
+}
