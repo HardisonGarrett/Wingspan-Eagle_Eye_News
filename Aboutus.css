@@ -79,9 +79,11 @@ h1 {
     display: flex;
   }
 
- 
 
 
+  #H{
+    margin-top: 175px;
+  }
  #Image-Hicks{
   float: right;
   margin-left: 100px;
@@ -92,6 +94,3 @@ h1 {
   margin-top:390px;
   margin-bottom: 0px;
 }
-#H{
-    margin-top: 175px;
-  }
