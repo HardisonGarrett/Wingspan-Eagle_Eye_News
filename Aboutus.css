@@ -83,6 +83,7 @@ h1 {
 
   #H{
     margin-top: 175px;
+      text-align: center;
   }
  #Image-Hicks{
   float: right;
@@ -93,4 +94,7 @@ h1 {
   background-color: rgb(56, 54, 54);
   margin-top:390px;
   margin-bottom: 0px;
+}
+#Name{
+  text-align: center;
 }
