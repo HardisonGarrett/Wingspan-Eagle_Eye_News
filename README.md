@@ -10,8 +10,8 @@ School: Chester County High school
 
 
 
-Ricardo: Lead Designer
-Jacob: Secondary Coder
+Ricardo: Lead Designer<br>
+Jacob: Secondary Coder<br>
 Garrett: Lead Coder
 
 Something on the website we went above and beyond on was the home screen. Here we had a few custom logos made for the homepage.
