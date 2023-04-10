@@ -1,4 +1,5 @@
 # Wingspan-Eagle_Eye_News
+<p>
 Names in group:
 Ricardo Rosado
 Jacob Stewart
@@ -20,3 +21,4 @@ One of our difficulties was a sidebar that we had scrapped due to it not working
 We discoverd that coding is something we enjoy doing and group work makes it more enjoyable.
 
 We decided on making a website for our schools newspaper after we saw that there wasn't one. We are hoping that this website stays in use even after we have graduated. This website can be updated as long as the school newspaper is being produced. This is something we as a group are all proud of making 
+</p>
